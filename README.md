@@ -1,6 +1,8 @@
-# Titanic EDA Project 🚢
+Titanic EDA Project
 
-This project explores the Titanic dataset from the famous Kaggle competition to understand factors affecting passenger survival.
+🚢 Exploratory Data Analysis on the Titanic Dataset
+
+This project dives into the Titanic dataset to uncover insights and trends related to passenger survival. Using Python libraries like Pandas, Seaborn, and Matplotlib, we analyze relationships between age, gender, ticket class, family size, and more with respect to survival outcomes.
 
 ## Goals:
 - Clean and preprocess the dataset
